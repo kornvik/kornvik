@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornsinanju)](https://github.com/kornsinanju/laughing-spork,https://github.com/kornsinanju/IDC_2021_G3,https://github.com/kornsinanju/hiveground)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornsinanju&exclude_repo=IDC_2021_G3)](https://github.com/kornsinanju/laughing-spork,https://github.com/kornsinanju/hiveground)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kornsinanju&count_private=true) -->
 
