@@ -7,7 +7,7 @@
 <img align='right' src="https://media.giphy.com/media/ZZxSZJjeBes7VyawRM/giphy.gif" width="230">
 
 - Self-taught full-stack developer from Thailand. <img src="https://media.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif" width="40">
-- Make sure to check up my page! <a href="http://https://kornsinanju.github.io">My blogs</a>
+- Make sure to check up my page! <a href="http://kornsinanju.github.io">My blog</a>
 - Studied <em>robotics</em> at <a href="http://https://www.titech.ac.jp/english">Tokyo Institute of Technology</a> in Japan <img src="https://media.giphy.com/media/pjG35x1crd7vUPAZpf/giphy.gif" width="40"> 
 - Into Robotics, Web dev and ML <img src="https://media.giphy.com/media/dYyRWrXb9OpfYbhNY4/giphy.gif" width="40">
 - Painting / Drawing in free time <img src="https://media.giphy.com/media/H6zPjOjCllmxZ7gwj6/giphy.gif" width="40">
