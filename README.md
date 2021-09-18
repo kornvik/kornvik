@@ -7,6 +7,7 @@
 <img align='right' src="https://media.giphy.com/media/ZZxSZJjeBes7VyawRM/giphy.gif" width="230">
 
 - Self-taught full-stack developer from Thailand. <img src="https://media.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif" width="40">
+- Make sure to check up my page! <a href="http://https://kornsinanju.github.io">My blogs</a>
 - Studied <em>robotics</em> at <a href="http://https://www.titech.ac.jp/english">Tokyo Institute of Technology</a> in Japan <img src="https://media.giphy.com/media/pjG35x1crd7vUPAZpf/giphy.gif" width="40"> 
 - Into Robotics, Web dev and ML <img src="https://media.giphy.com/media/dYyRWrXb9OpfYbhNY4/giphy.gif" width="40">
 - Painting / Drawing in free time <img src="https://media.giphy.com/media/H6zPjOjCllmxZ7gwj6/giphy.gif" width="40">
@@ -28,7 +29,7 @@
 
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornsinanju&exclude_repo=IDC_2021_G3)](https://github.com/kornsinanju/laughing-spork,https://github.com/kornsinanju/hiveground)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornsinanju&exclude_repo=IDC_2021_G3)](https://github.com/kornsinanju/laughing-spork,https://github.com/kornsinanju/hiveground,https://github.com/kornsinanju/kornsinanju.github.io)
   
 
 <!--
