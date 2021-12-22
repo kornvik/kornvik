@@ -23,13 +23,13 @@
 ![](https://img.shields.io/badge/Web-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=27A6FE)
 ![](https://img.shields.io/badge/Web-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=2755FE)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2755FE)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2755FE)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2755FE)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=306998)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=044F88)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=FFFF00)
 
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornsinanju&exclude_repo=IDC_2021_G3,Fundamentals-of-Machine-Learning)](https://github.com/kornsinanju/laughing-spork,https://github.com/kornsinanju/hiveground,https://github.com/kornsinanju/kornsinanju.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornsinanju&exclude_repo=IDC_2021_G3,Fundamentals-of-Machine-Learning&layout=compact)](https://github.com/kornsinanju/laughing-spork,https://github.com/kornsinanju/hiveground,https://github.com/kornsinanju/kornsinanju.github.io)
   
 
 <!--
