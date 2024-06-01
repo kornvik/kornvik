@@ -29,7 +29,7 @@
 
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornsinanju&exclude_repo=IDC_2021_G3,Fundamentals-of-Machine-Learning&layout=compact)](https://github.com/kornsinanju/laughing-spork,https://github.com/kornsinanju/hiveground,https://github.com/kornsinanju/kornsinanju.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornvik&exclude_repo=IDC_2021_G3,Fundamentals-of-Machine-Learning&layout=compact)](https://github.com/kornsinanju/laughing-spork,https://github.com/kornsinanju/hiveground,https://github.com/kornsinanju/kornsinanju.github.io)
   
 
 <!--
