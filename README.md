@@ -3,7 +3,7 @@
 <h2>Hi, I'm Kornvik Tanpipat!<img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="40"></h2>
 
 [![Linkedin: kornvik](https://img.shields.io/badge/-kornvik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kornvik.tanpipat/)](https://www.linkedin.com/in/kornvik.tanpipat/)
-[![GitHub Kornvik](https://img.shields.io/github/followers/kornsinanju?label=follow&style=social)](https://github.com/kornsinanju)
+[![GitHub Kornvik](https://img.shields.io/github/followers/kornvik?label=follow&style=social)](https://github.com/kornvik)
 <img align='right' src="https://media.giphy.com/media/ZZxSZJjeBes7VyawRM/giphy.gif" width="230">
 
 - Self-taught full-stack developer from Thailand. <img src="https://media.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif" width="40">
